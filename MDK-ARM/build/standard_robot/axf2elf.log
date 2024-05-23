@@ -1,0 +1,6 @@
+objcopy.exe --update-section ER_IROM1="f:\Robot\Medical_chassis_V0.1\MDK-ARM\build\standard_robot\MDK-ARM.bin" "f:\Robot\Medical_chassis_V0.1\MDK-ARM\build\standard_robot\MDK-ARM.axf" "f:\Robot\Medical_chassis_V0.1\MDK-ARM\build\standard_robot\MDK-ARM.elf"
+
+objcopy.exe: f:\Robot\Medical_chassis_V0.1\MDK-ARM\build\standard_robot\MDK-ARM.elf: warning: allocated section `RW_IRAM1' not in segment
+
+WARNING: The runtime version supported by this application is unavailable.
+Using default runtime: v4.0.30319

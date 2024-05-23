@@ -1,0 +1,24 @@
+[2021-09-29 16:17:53]	compilation failed at : "f:\Robot\Medical_chassis_V0.1\application\medical_chassis.c", exit code: 1
+  at unify_builder.Program.Main (System.String[] args) [0x01175] in <a26d93b953e3428589ebd739499f2cb1>:0 
+
+[2021-09-29 16:18:39]	compilation failed at : "f:\Robot\Medical_chassis_V0.1\application\medical_chassis.c", exit code: 1
+  at unify_builder.Program.Main (System.String[] args) [0x01175] in <a26d93b953e3428589ebd739499f2cb1>:0 
+
+[2021-09-29 16:21:55]	[done]
+	build successfully !
+
+[2021-09-29 16:24:43]	[done]
+	build successfully !
+
+[2021-09-29 18:47:30]	[done]
+	build successfully !
+
+[2021-09-29 18:48:36]	[done]
+	build successfully !
+
+[2021-10-08 16:58:29]	[done]
+	build successfully !
+
+[2021-10-08 16:59:02]	[done]
+	build successfully !
+
